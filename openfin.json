@@ -1,0 +1,16 @@
+{
+  "devtools_port": 9090,
+  "startup_app": {
+    "name": "cowboy-interop",
+    "url": "http://localhost:5173/",
+    "uuid": "cowboy-interop",
+    "saveWindowState": false,
+    "autoShow": true,
+    "permissions": {
+      "System": { "terminateExternalProcess": true }
+    }
+  },
+  "runtime": {
+    "version": "stable"
+  }
+}
